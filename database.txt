@@ -1,0 +1,2 @@
+Didn't include the "customer_reviews.db" database here because
+it's really messed up since I did it in PyCharm community version
